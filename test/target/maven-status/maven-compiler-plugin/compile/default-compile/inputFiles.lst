@@ -1,0 +1,9 @@
+/Users/nazar/Desktop/test/src/main/java/com/app/test/TestApplication.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/controller/HomeController.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/controller/StudentRestController.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/model/Role.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/model/Student.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/model/User.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/repository/StudentRepository.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/service/StudentService.java
+/Users/nazar/Desktop/test/src/main/java/com/app/test/service/StudentServiceImpl.java

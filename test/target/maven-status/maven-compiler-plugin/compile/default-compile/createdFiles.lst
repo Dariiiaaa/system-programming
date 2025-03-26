@@ -1,0 +1,9 @@
+com/app/test/model/Role.class
+com/app/test/service/StudentService.class
+com/app/test/model/User.class
+com/app/test/controller/HomeController.class
+com/app/test/repository/StudentRepository.class
+com/app/test/model/Student.class
+com/app/test/controller/StudentRestController.class
+com/app/test/service/StudentServiceImpl.class
+com/app/test/TestApplication.class
